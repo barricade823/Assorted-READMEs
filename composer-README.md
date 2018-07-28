@@ -1,13 +1,13 @@
 ### Setup Composer
 Global Installation
-- Download and configure [Composer](https://getcomposer.org/doc/00-intro.md)
+- Download and configure [Composer](https://getcomposer.org/doc/00-intro.md) globally.
 - Make sure it's added to your PATH
 - Open the terminal in the project root and run `composer install`
 
 Local Installation
 - Grab a composer.phar file from [here](https://getcomposer.org/download/).
 - Copy it into the root of the project folder.
-- Run `php composer.phar install`
+- Run `php composer.phar install` in the project root.
 
 PHPStorm Installation
 - Open a composer file like `composer.json` or `composer.lock`.
